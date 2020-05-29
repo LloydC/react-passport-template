@@ -1,0 +1,1 @@
+# Template for React authentication using JWT and Passport
